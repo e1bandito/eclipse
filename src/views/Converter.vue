@@ -178,6 +178,7 @@ export default {
   cursor: pointer;
   transition: color 0.3s linear;
   outline: none;
+  background-color: transparent;
 }
 
 .converter__btn {
